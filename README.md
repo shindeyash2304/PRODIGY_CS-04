@@ -23,9 +23,12 @@ Explore file handling in Python
 Gain insights into potential security vulnerabilities
 
 Ethical Considerations
+
 This project is created solely for educational purposes to understand the concepts behind keylogging. It is crucial to emphasize:
 
-Legal and Ethical Use: This tool should never be used to monitor or collect data from any device or individual without explicit consent.
+Legal and Ethical Use:
+
+This tool should never be used to monitor or collect data from any device or individual without explicit consent.
 Personal Learning Only: Use this project only on your personal devices for learning purposes.
 Security Awareness: This project demonstrates how keyloggers work, highlighting the importance of cybersecurity measures.
 
@@ -36,6 +39,7 @@ Libraries: pynput for key monitoring
 Output: Plain text file for logged keystrokes
 
 **Usage (For Educational Purposes Only)**
+
 Run the script on your personal device.
 The program will start logging keystrokes to a file.
 Use a predefined key combination to stop the logging process.
